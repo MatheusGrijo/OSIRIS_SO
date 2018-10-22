@@ -1,0 +1,187 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "dc61ccbcf20edcf771feed5002eb1b837a54efe3"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "OSIRIS/1.0.0": {
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "1.0.1",
+          "Cosmos.System": "1.0.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "OSIRIS.dll": {}
+        }
+      },
+      "Cosmos.Common/1.0.1": {
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "1.0.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cosmos.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.Core/1.0.1": {
+        "dependencies": {
+          "Cosmos.Common": "1.0.1",
+          "Cosmos.Core.Common": "1.0.1",
+          "Cosmos.Debug.Kernel": "1.0.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cosmos.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.Core.Common/1.0.1": {
+        "dependencies": {
+          "Cosmos.Common": "1.0.1",
+          "Cosmos.IL2CPU.Plugs": "1.0.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cosmos.Core.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.Debug.Kernel/1.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cosmos.Debug.Kernel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.HAL/1.0.1": {
+        "dependencies": {
+          "Cosmos.Common": "1.0.1",
+          "Cosmos.Core": "1.0.1",
+          "Cosmos.Core.Common": "1.0.1",
+          "Cosmos.Debug.Kernel": "1.0.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cosmos.HAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.IL2CPU.Plugs/1.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cosmos.IL2CPU.Plugs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.System/1.0.1": {
+        "dependencies": {
+          "Cosmos.Common": "1.0.1",
+          "Cosmos.HAL": "1.0.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cosmos.System.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSIRIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cosmos.Common/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XLfFTSqzkK6eNpbSyLIBBBy7l8Ug7QvHl1ZN7lbqlAxPAdev2F1cOylKrTdH4HZ0qELDPBnUfugv3c4GkbilyA==",
+      "path": "cosmos.common/1.0.1",
+      "hashPath": "cosmos.common.1.0.1.nupkg.sha512"
+    },
+    "Cosmos.Core/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Oh9Q3zYi+VHq4OdTAslt4Cc+58eqrlHZFK/fr8uLwhKKvdYtVvMowrhA7VwnSr06rye+eXmSjsgnZ8pekUSbyw==",
+      "path": "cosmos.core/1.0.1",
+      "hashPath": "cosmos.core.1.0.1.nupkg.sha512"
+    },
+    "Cosmos.Core.Common/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oFqrYxcYURPf1siPs4TvsyE6pyYgj/J+cX3/eY/LZJVkE1d3h8bUusC7TcVTzEPRTe+yWDv7c7fUcXK3OR5cPQ==",
+      "path": "cosmos.core.common/1.0.1",
+      "hashPath": "cosmos.core.common.1.0.1.nupkg.sha512"
+    },
+    "Cosmos.Debug.Kernel/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-32xju5/SFhzS3RzmB9xhTv32Cw81FxT8u9hv9JyLOn2Y0IR7Qeu589Q/tfTljtWIwzmQPeDhgnI98NhWkArhEw==",
+      "path": "cosmos.debug.kernel/1.0.1",
+      "hashPath": "cosmos.debug.kernel.1.0.1.nupkg.sha512"
+    },
+    "Cosmos.HAL/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f5S/LvndI3K13BxVRvB3kwNs2NNwJxmjcMxWoe2IlRiVvNBs+T2LvPY7dzG81zk/pVjCYE8LASapPMq3+N0ROA==",
+      "path": "cosmos.hal/1.0.1",
+      "hashPath": "cosmos.hal.1.0.1.nupkg.sha512"
+    },
+    "Cosmos.IL2CPU.Plugs/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a5eLyp4bZjmMSWOvKH2KXS7sbZNVsX0YXhOP0twMOjKmRvXzeiwbmt/t4ogb3DQnRoDtKENpquGM4K3ws5lSWw==",
+      "path": "cosmos.il2cpu.plugs/1.0.1",
+      "hashPath": "cosmos.il2cpu.plugs.1.0.1.nupkg.sha512"
+    },
+    "Cosmos.System/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xZCvuIYb9P+60RArPiJHPovxjA2xuex+4Up0/0m3zeMpbdtlpjgrQaNP6UQmxsU78p3THQa3ijoQNhBsyF1E8Q==",
+      "path": "cosmos.system/1.0.1",
+      "hashPath": "cosmos.system.1.0.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    }
+  }
+}

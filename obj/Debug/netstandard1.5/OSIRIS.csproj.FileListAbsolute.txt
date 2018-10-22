@@ -1,0 +1,9 @@
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\obj\Debug\netstandard1.5\OSIRIS.csproj.CoreCompileInputs.cache
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\obj\Debug\netstandard1.5\OSIRIS.AssemblyInfoInputs.cache
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\obj\Debug\netstandard1.5\OSIRIS.AssemblyInfo.cs
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\bin\Debug\netstandard1.5\OSIRIS.deps.json
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\bin\Debug\netstandard1.5\OSIRIS.dll
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\bin\Debug\netstandard1.5\OSIRIS.pdb
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\obj\Debug\netstandard1.5\OSIRIS.dll
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\obj\Debug\netstandard1.5\OSIRIS.pdb
+C:\programas\mex10\osirisso_\OSIRIS\OSIRIS\obj\Debug\netstandard1.5\OSIRIS.csprojAssemblyReference.cache
